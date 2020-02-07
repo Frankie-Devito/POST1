@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+    margin: 0;
+    padding: 0;
+}
+.splash{
+    position: relative;
+    text-align: center;
+    top: 200px;
+}
